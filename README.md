@@ -16,16 +16,16 @@
 |----------------|------------------------------------------------------------------------|
 | **Async Ops**  | `aiogram` `asyncio` `aiohttp` `aio-schedule`                           |
 | **Data Combat**| `SQLAlchemy` `Alembic` `PostgreSQL` `SQLite`                           |
-| **Infra**      | `Docker` (training) `Git` `Webhooks` `Linux`                           |
-| **Weaponized** | `requests` `REST APIs` `Payment Gateways` `Telegram Stars Protocol`    |
+| **Infra**      | `Docker`, `Git`, `Linux`                           |
+| **Weaponized** | `REST APIs` `Payment Gateways` `Telegram Stars Protocol`    |
 
 ## 🎯 SKILL ARTILLERY
 ```diff
 + PYTHON        ████████░░ 80% 
-+ AIOGRAM       ████████░░ 75%
-+ DOCKER        █░░░░░░░░░ 10%
-+ SQLAlchemy    █░░░░░░░░░ 10%
-+ Alemic        █░░░░░░░░░ 10%
++ AIOGRAM       ████████░░ 80%
++ DOCKER        █████████░ 90%
++ SQLAlchemy    ████████░░ 75%
++ Alemic        █████████░ 90%
 + CLIENT BS     ██████████ 100%
 ```
 
@@ -81,21 +81,9 @@ while alive(health):
 ```
 </details>
 
-> **AUDIT LOG:** Last updated 2025 | Systems nominal
-```
 
-**To use:**  
-1. Copy entire block above  
-2. Paste into your `README.md`  
-3. Customize if needed (remove Docker training tag when proficient)  
-
-**Optional upgrades:**  
-- Add GitHub stats card:  
-```markdown
 [![Strategic Readiness](https://github-readme-stats.vercel.app/api?username=Agnumen&show_icons=true&theme=merko&hide_title=true)](https://github.com/Agnumen)
-```  
-- Insert project demo GIF under **LIVE OPERATIONS**  
-- Replace disclaimer with actual portfolio links when available
+
 <!---
 Agnumen/Agnumen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
